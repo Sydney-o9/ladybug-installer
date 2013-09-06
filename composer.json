@@ -13,5 +13,7 @@
     "require-dev": {
         "composer/composer": "~1.0@dev",
         "mockery/mockery": "0.8.0"
+    },
+    "require": {
     }
 }
